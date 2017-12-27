@@ -13,9 +13,10 @@
 
 ## 如何使用？
 
-    npm run dev
-
-
+    //测试
+    npm run dev
+    
+    //打包
     npm run build
 
 ### 注册账号
