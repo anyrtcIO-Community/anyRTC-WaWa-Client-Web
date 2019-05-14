@@ -11,7 +11,7 @@
 
 - [Android Demo下载](https://www.pgyer.com/anyRTC_Wawaji)
 
-- [Web Demo 体验](https://demos.anyrtc.io/ar-wawaji/)
+- [Web Demo 体验](http://wawaji.anyrtc.cc/)
 
 ### 源码GitHub
 
@@ -20,10 +20,6 @@
 - [Android 服务端Demo 源码下载](https://github.com/AnyRTC/anyRTC-WaWa-Server-Android)
 
 - [Android Demo 源码下载](https://github.com/AnyRTC/anyRTC-WaWa-Client-Android)
- 
-- [Web Demo 源码下载](https://github.com/anyRTC/anyRTC-Meeting-Web)
-
-
 
 ## 二、集成指南
 
@@ -35,35 +31,6 @@
 
 - Chrome、Firefox、safari 11(以上)或其他谷歌内核浏览器
 - H5支持chrome内核
-
-### 导入SDK
-
-##### npm 市场
-
-* 通过 [npm市场](https://www.npmjs.com/package/ar-meet) 下载：
-
-```
-npm install ar-meet --save-dev
-
-import ArMeet from 'ar-meet';
-```
-
-* 如果需要安装指定版本则使用以下方式（以 3.0.0 版本为例）：
-
-```
-npm install ar-meet@3.0.0 --save-dev
-
-import ArMeet from 'ar-meet';
-```
-
-##### js 引用
-
-* 点击[下载 SDK](https://github.com/anyRTC/anyRTC-Meet-web)
-
-* 引用
-```
-<script src="yourAssetsPath/ArMeetKit.js"></script>
-```
 
 ## 三、API接口文档
 
